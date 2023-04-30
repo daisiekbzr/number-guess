@@ -14,18 +14,18 @@ Welcome to my Harry Potter Number Guessing Game! Test your magical powers and se
 6. Once you guess the correct number, the game will display a success message along with the number of guesses you took.
 7. You can choose to play again by entering "yes" when prompted. Enter "no" or any other input to exit the game.
 
-## Prerequisites
+## Requirements
 
-To run the Harry Potter Number Guessing Game, you need to have Python installed on your machine. You can download the latest version of Python from the official Python website.
+Python 3.9.6
 
 ## How to Run
 
 1. Clone the repository or download the Python script file to your local machine.
 2. Open a terminal or command prompt and navigate to the directory where the script is located.
 3. Run the script by executing the following command:  
-'''python number_guess.py'''
+  ```python number_guess.py```
 4. Follow the on-screen instructions to play the game.
 
 ## Acknowledgments
 
-The Harry Potter Number Guessing Game was developed by '''daisiecommits'''. It is a simple Python game inspired by the Harry Potter series. Enjoy the game and may your magical powers guide you to the correct number!
+The Harry Potter Number Guessing Game was developed by ```daisiecommits```. It is a simple Python game inspired by the Harry Potter series. Enjoy the game and may your magical powers guide you to the correct number!
