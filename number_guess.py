@@ -21,7 +21,7 @@ def play_game():
 
     while True:
         guesses += 1
-        user_guess = input("Cast your guess: ")
+        user_guess = input("\nCast your guess: ")
         if user_guess.isdigit():
             user_guess = int(user_guess)
         else:
@@ -44,7 +44,7 @@ def play_game():
 
 while True:
     play_game()
-    play_again = input("Do you dare to play again? (yes/no): ")
+    play_again = input("\nDo you dare to play again? (yes/no): ")
     if play_again.lower() != "yes":
         print("Thanks for testing your magic!")
         break
