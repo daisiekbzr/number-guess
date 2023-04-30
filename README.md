@@ -1,6 +1,6 @@
 # Harry Potter Number Guessing Game
 
-<img src="https://wallpapers.com/images/hd/cool-harry-potter-divination-class-4t92m0xrq6ujdh6s.jpg" alt="Harry Potter" style="display: flex; justify-content: center; overflow: hidden; height: 80%; width: 500px;">
+<img src="https://wallpapers.com/images/hd/cool-harry-potter-divination-class-4t92m0xrq6ujdh6s.jpg" alt="Harry Potter" style="display: flex; justify-content: center; overflow: hidden; height: 60%; width: 500px;">
 
 Welcome to my Harry Potter Number Guessing Game! Test your magical powers and see if you can guess the correct number. This Python game allows players to enter a range of numbers and make guesses until they find the correct answer.
 
