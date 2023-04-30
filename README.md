@@ -32,4 +32,4 @@ The Harry Potter Number Guessing Game was developed by ```daisiecommits```. It i
 
 ## Screenshot
 
-![Game Screenshot](hp_guess_screenshot.png)
+<img src="hp_guess_screenshot.png" alt="Game Screenshot" width="500">
