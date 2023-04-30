@@ -31,3 +31,5 @@ Python 3.9.6
 The Harry Potter Number Guessing Game was developed by ```daisiecommits```. It is a simple Python game inspired by the Harry Potter series. Enjoy the game and may your magical powers guide you to the correct number!
 
 ## Screenshot
+
+![Game Screenshot](hp_guess_screenshot.png)
