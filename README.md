@@ -28,7 +28,7 @@ Python 3.9.6
 
 ## Acknowledgments
 
-The Harry Potter Number Guessing Game was developed by <a href="https://github.com/daisiecommits">daisiecommits</a> and based on a tutorial by Tech With Tim. It is a simple Python game inspired by the Harry Potter series. Enjoy the game and may your magical powers guide you to the correct number!
+The Harry Potter Number Guessing Game was developed by <a href="https://github.com/daisiekbzr">daisiecommits</a> and based on a tutorial by Tech With Tim. It is a simple Python game inspired by the Harry Potter series. Enjoy the game and may your magical powers guide you to the correct number!
 
 ## Preview of the Game
 
